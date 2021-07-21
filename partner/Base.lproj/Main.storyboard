@@ -22,60 +22,31 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="frF-5V-owS">
-                                <rect key="frame" x="38" y="244" width="326" height="130"/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8LV-PY-Ish">
+                                <rect key="frame" x="169" y="431" width="54" height="34"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal">
-                                    <attributedString key="attributedTitle">
-                                        <fragment content="gender inequality">
-                                            <attributes>
-                                                <font key="NSFont" size="15" name="Optima-Bold"/>
-                                                <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
-                                            </attributes>
-                                        </fragment>
-                                    </attributedString>
-                                </state>
-                                <connections>
-                                    <action selector="button1:" destination="BYZ-38-t0r" eventType="touchUpInside" id="d4d-xW-LvE"/>
-                                    <action selector="button:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lWV-Z5-jlj"/>
-                                </connections>
+                                <state key="normal" title="Button"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="4qN-rS-QjR">
-                                <rect key="frame" x="38" y="424" width="326" height="106"/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iN7-Wx-KYS">
+                                <rect key="frame" x="35" y="226" width="426" height="162"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal">
-                                    <attributedString key="attributedTitle">
-                                        <fragment content="activists">
-                                            <attributes>
-                                                <font key="NSFont" size="15" name="Optima-Bold"/>
-                                                <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
-                                            </attributes>
-                                        </fragment>
-                                    </attributedString>
-                                </state>
+                                <state key="normal" title="Button" image="Screen_Shot_2021-07-21_at_11.07.14_AM-removebg-preview"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="RMM-h5-goW">
-                                <rect key="frame" x="59" y="590" width="305" height="120"/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="w8f-YP-6Uj">
+                                <rect key="frame" x="-191" y="528" width="855" height="260"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal">
-                                    <attributedString key="attributedTitle">
-                                        <fragment content="programs">
-                                            <attributes>
-                                                <font key="NSFont" size="15" name="Optima-Bold"/>
-                                                <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
-                                            </attributes>
-                                        </fragment>
-                                    </attributedString>
-                                </state>
+                                <state key="normal" title="Button" image="Screen_Shot_2021-07-21_at_11.08.03_AM-removebg-preview"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7e6-pf-ULf">
+                                <rect key="frame" x="35" y="414" width="344" height="140"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button" image="Screen_Shot_2021-07-21_at_10.46.08_AM-removebg-preview"/>
                             </button>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="button1" destination="frF-5V-owS" id="BRi-aR-vZF"/>
-                        <outlet property="button2" destination="4qN-rS-QjR" id="qfX-1K-tGV"/>
-                        <outlet property="button3" destination="RMM-h5-goW" id="h86-fS-kDW"/>
                         <outlet property="label" destination="RIO-Bb-7eO" id="nrf-gb-DZr"/>
                     </connections>
                 </viewController>
@@ -84,4 +55,9 @@
             <point key="canvasLocation" x="218.84057971014494" y="91.741071428571431"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="Screen_Shot_2021-07-21_at_10.46.08_AM-removebg-preview" width="472" height="184"/>
+        <image name="Screen_Shot_2021-07-21_at_11.07.14_AM-removebg-preview" width="332" height="142"/>
+        <image name="Screen_Shot_2021-07-21_at_11.08.03_AM-removebg-preview" width="330" height="152"/>
+    </resources>
 </document>

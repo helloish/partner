@@ -160,7 +160,7 @@
                         <color key="backgroundColor" red="0.79607843137254897" green="0.90588235294117647" blue="0.87450980392156863" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <navigationItem key="navigationItem" leftItemsSupplementBackButton="YES" id="wz7-Ec-wtB">
-                        <barButtonItem key="backBarButtonItem" title="back" id="WRM-ZG-TbX"/>
+                        <barButtonItem key="backBarButtonItem" title=" " id="WRM-ZG-TbX"/>
                     </navigationItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="TML-Sm-4zj" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>

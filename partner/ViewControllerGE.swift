@@ -12,9 +12,8 @@ class ViewControllerGE: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.navigationItem.hidesBackButton = false
-        navigationItem.backBarButtonItem?.title = "back"
-
+        self.navigationItem.leftItemsSupplementBackButton = true
+        
         // Do any additional setup after loading the view.
     }
     

@@ -65,9 +65,9 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="w8f-YP-6Uj">
-                                <rect key="frame" x="-195" y="534" width="860" height="267"/>
+                                <rect key="frame" x="51" y="582" width="343" height="137"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button" image="Screen_Shot_2021-07-21_at_11.08.03_AM-removebg-preview"/>
+                                <state key="normal" title="Button" image="Screen_Shot_2021-07-23_at_10.29.11_AM-removebg-preview"/>
                                 <connections>
                                     <action selector="button3:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pcS-V5-T25"/>
                                     <segue destination="bPv-IH-9H1" kind="show" id="7qg-FF-YVi"/>
@@ -209,10 +209,16 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="wee-PY-nrE">
-                                <rect key="frame" x="11" y="198" width="393" height="722"/>
+                                <rect key="frame" x="11" y="198" width="393" height="851.5"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.62352941179999999" green="0.89411764709999997" blue="0.81960784310000001" alpha="1" colorSpace="calibratedRGB"/>
-                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                <mutableString key="text">Period poverty is defined as a lack of access to period hygiene items and knowledge, such as sanitary products, washing facilities, and waste management. Over the years, this issue has worsened with more individuals who menstruate not given the proper materials to assist them. 
+
+Around 2.3 million individuals in the world do not have access to sufficient sanitation facilities. Along with this, 35 states in the U.S.A. have initiated taxes on menstrual products. Additionally, 25 million women live below the poverty line; however, food stamps do not cover the cost of menstrual products. 
+Why is this an issue?
+
+Periods/menstruation are seen as taboo in many third world countries and individuals who menstruate are “shamed.” These individuals and their health are essentially ignored by others in their community due to this stigma around periods. Poor menstrual hygiene can cause a wide array of issues, such as reproduction complications and urinary tract infections. Young women in impoverished countries are at risk of not having a complete education due to this. Because these individuals will not receive a complete education, they are more likely to enter child marriages in which they may experience domestic violence, malnourishment, and an early pregnancy. 
+</mutableString>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -310,10 +316,15 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="j1y-XR-BBr">
-                                <rect key="frame" x="20" y="198" width="393" height="722"/>
+                                <rect key="frame" x="11" y="174" width="383" height="1483"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.48627450979999998" green="0.74901960779999999" blue="0.82352941180000006" alpha="1" colorSpace="calibratedRGB"/>
-                                <mutableString key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</mutableString>
+                                <mutableString key="text">Domestic Violence, a severe and emotional issue, heavily affects more than 10 million men and women in the United States alone. Domestic violence is delineated as acts of violent and aggressive behavior within a home, often involving the violent abuse of an individual. Additionally, it is necessary to recognize Domestic Violence as learned behavior and not practiced due to certain behaviors such as drugs, alcohol, or anger. This issue affects all individuals, regardless of their age, sex, or race. Although this issue heavily affects millions, their voices, as well as their feelings, are silenced. More than 1 in 4 women have experienced some form of domestic abuse, and these statistics, while alarming, display an individuals' inability to speak out due to constant danger and fear. 
+
+To combat this issue, initially, we must recognize what abuse is. At the beginning of a relationship, an individual may not be aware that it may turn abusive. But in reality, it has been proven that most abusive individuals appear ideal during the beginning of a relationship. Although an individual may seem ideal, their exhibited behavior, such as a sense of possessiveness and control, is not an overnight process, and in actuality, grows with time. Each relationship is distinctive, and so is its violence, but no individual deserves to experience any form of abuse—regardless of the reason. There are many forms of abuse, which have distinctive characteristics. Abuse is a pattern of behavior used by an individual to maintain power and control, exhibited in many ways. Domestic violence can take many forms—including physical, economic, verbal, religious, emotional, sexual, and even reproductive. Recognizing forms of abuse is the first step to getting yourself out of the situation. Although this situation can be difficult, we encourage everyone to seek help in any form, whether it is from a hotline, a trusted individual, or through clinics and shelters.   
+
+Domestic violence is commonly seen in women, statistics revealing that women are more likely to be affected than men. Although data displays an inequality between genders, we must be cognizant and recognize that abuse is abuse, and its detrimental effects are long-lasting. Instead of focusing on inequity, we should ensure that any victim suffering from domestic violence obtains the resources and help to be safe and supported.  
+</mutableString>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -398,8 +409,20 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen_Shot_2021-07-22_at_2.50.11_PM-removebg-preview" translatesAutoresizingMaskIntoConstraints="NO" id="Pxw-0S-LiQ">
-                                <rect key="frame" x="62" y="48" width="290" height="147"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen_Shot_2021-07-23_at_10.19.32_AM-removebg-preview" translatesAutoresizingMaskIntoConstraints="NO" id="Pxw-0S-LiQ">
+                                <rect key="frame" x="62" y="48" width="314" height="157"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen_Shot_2021-07-23_at_10.46.13_AM-removebg-preview" translatesAutoresizingMaskIntoConstraints="NO" id="i0z-sq-8cn">
+                                <rect key="frame" x="0.0" y="140" width="394" height="242"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen_Shot_2021-07-23_at_10.46.40_AM-removebg-preview" translatesAutoresizingMaskIntoConstraints="NO" id="Tek-d2-4bh">
+                                <rect key="frame" x="-10" y="584" width="404" height="247"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen_Shot_2021-07-23_at_10.49.23_AM-removebg-preview (1)" translatesAutoresizingMaskIntoConstraints="NO" id="yi7-AL-FdB">
+                                <rect key="frame" x="-17" y="352" width="419" height="256"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -487,17 +510,20 @@
         <image name="Screen_Shot_2021-07-21_at_10.40.09_AM-removebg-preview" width="210" height="82"/>
         <image name="Screen_Shot_2021-07-21_at_10.46.08_AM-removebg-preview" width="472" height="184"/>
         <image name="Screen_Shot_2021-07-21_at_11.07.14_AM-removebg-preview" width="332" height="142"/>
-        <image name="Screen_Shot_2021-07-21_at_11.08.03_AM-removebg-preview" width="330" height="152"/>
         <image name="Screen_Shot_2021-07-21_at_11.15.59_AM-removebg-preview (1)" width="62" height="64"/>
         <image name="Screen_Shot_2021-07-22_at_11.30.04_AM-removebg-preview" width="578" height="220"/>
         <image name="Screen_Shot_2021-07-22_at_11.33.22_AM-removebg-preview" width="424" height="168"/>
         <image name="Screen_Shot_2021-07-22_at_11.39.19_AM-removebg-preview" width="418" height="174"/>
         <image name="Screen_Shot_2021-07-22_at_11.42.29_AM-removebg-preview" width="408" height="176"/>
         <image name="Screen_Shot_2021-07-22_at_2.48.46_PM-removebg-preview (1)" width="288" height="130"/>
-        <image name="Screen_Shot_2021-07-22_at_2.50.11_PM-removebg-preview" width="260" height="92"/>
         <image name="Screen_Shot_2021-07-22_at_2.54.10_PM-removebg-preview" width="206" height="84"/>
         <image name="Screen_Shot_2021-07-22_at_2.54.31_PM-removebg-preview" width="216" height="118"/>
         <image name="Screen_Shot_2021-07-22_at_2.55.00_PM-removebg-preview" width="190" height="108"/>
+        <image name="Screen_Shot_2021-07-23_at_10.19.32_AM-removebg-preview" width="258" height="92"/>
+        <image name="Screen_Shot_2021-07-23_at_10.29.11_AM-removebg-preview" width="738" height="338"/>
+        <image name="Screen_Shot_2021-07-23_at_10.46.13_AM-removebg-preview" width="677" height="368"/>
+        <image name="Screen_Shot_2021-07-23_at_10.46.40_AM-removebg-preview" width="678" height="348"/>
+        <image name="Screen_Shot_2021-07-23_at_10.49.23_AM-removebg-preview (1)" width="696" height="312"/>
         <image name="a" width="658" height="326"/>
         <image name="b" width="670" height="286"/>
         <image name="education" width="793" height="314"/>
